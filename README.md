@@ -1,16 +1,16 @@
-### Hi there 👋
+### I'm Sharon Nissanov
 
-<!--
-**sharonNissanov/SharonNissanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm a software engineering graduate.
+- 🔭 I’m currently working upgrading and improving my portfolio.
+- 🌱 I'm currently learning more about web technologies and also backend.
+- 🤔 I’m looking a position in software development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 My Skills
+- 🌐   HTML | CSS | JavaScript | ReactJS | Bootstrap | Marerial UI | Semantic UI | Redux
+- 💻   Nodejs | Express | Firebase
+- 🛢   MongoDB
+- 🔧   Git
+
+🤝🏻  Connect with Me: https://www.linkedin.com/in/sharon-nissanov/
+   
