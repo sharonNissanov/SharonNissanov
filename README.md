@@ -1,15 +1,13 @@
 ### I'm Sharon Nissanov
 
-- 🎓 I'm a software engineering graduate.
-- 🔭 I’m currently working upgrading and improving my portfolio.
-- 🌱 I'm currently learning more about web technologies and also backend.
-- 🤔 I’m looking a position in software development.
+- 🎓 I'm a Full Stack Engineeer.
+- 🔭 I’m currently working In Envitech LTD.
 
 
 🛠 My Skills
-- 🌐   HTML | CSS | JavaScript | ReactJS | Bootstrap | Marerial UI | Semantic UI | Redux
-- 💻   Nodejs | Express | Firebase
-- 🛢   MongoDB
+- 🌐   HTML | CSS | JavaScript | TypeScript | Angular | 
+- 💻   C# | .NET 
+- 🛢   SQL server
 - 🔧   Git
 
 🤝🏻  Connect with Me: https://www.linkedin.com/in/sharon-nissanov/
